@@ -30,7 +30,6 @@ Open the HTML file in your browser and that’s it.
 
 ## About this project
 
-This is just a UI clone, so nothing is clickable or functional yet.  
-I’ll improve it as I learn more.
+This is just a UI clone, so nothing is clickable or functional yet.
 
 ---
